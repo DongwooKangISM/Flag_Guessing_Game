@@ -1,0 +1,7 @@
+Name your variable sensibly. Having loads of button1, button2, etc will probably lose score for extensibility score.
+btnOK
+btnCancel
+panelMain
+panelEdit
+would work
+
